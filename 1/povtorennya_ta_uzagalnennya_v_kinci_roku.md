@@ -2,29 +2,71 @@
 
 # Повторення й узагальнення в кінці року
 
+
 <table>
-  <tr>
-    <td width="10%" align="center"><b>№ <br>п\п</br></b></td>
-    <td width="5%" align="center"><b>Кількість годин</b></td>  
-    <td width="40%" align="center"><b>Зміст навчального матеріалу</b></td>
-    <td width="45%" align="center"><b>Державні вимоги до рівня загальноосвітньої підготовки учнів</b></td>
-  </tr>
 <tbody>
-  <tr>
-<td width="10%" style="vertical-align:top !important;">12</td>
-<td width="5%" style="vertical-align:top !important;">6</td>
-    <td width="40%" style="vertical-align:top !important;">
-Синтаксис і пунктуація.<br>
-Лексикологія.<br>
-Будова слова й орфографія.<br>
-Фонетика й графіка. Орфоепія й орфографія.
+<tr>
+<td rowspan="2">
+<p><strong>Очікувані результати</strong></p>
+<p><strong>навчально-пізнавальної діяльності учнів </strong></p>
 </td>
-    <td width="45%" style="vertical-align:top !important;">
-<i><b>Учень (учениця):</b></i><br>
-<b>повторює</b> вивчені відомості;<br>
-<b>класифікує й систематизує</b>  їх;<br>
-<b>узагальнює</b> поняття, закономірності,  правила й винятки з них.</td>
-  </tr>
+<td colspan="2">
+<p><strong>Зміст навчального матеріалу </strong></p>
+</td>
+<td rowspan="2">
+<p><strong>Соціокультурна змістова лінія (наскрізні змістові лінії)</strong></p>
+</td>
+<td rowspan="2">
+<p><strong>Діяльнісна змістова лінія (компетентності)</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Мовна змістова лінія</strong></p>
+</td>
+<td>
+<p><strong>Мовленнєва змістова лінія</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em><span>Учень (учениця):</span></em></p>
+<p><strong>повторює </strong><span>вивчені відомості;</span></p>
+<p><strong>класифікує й систематизує</strong><span> їх;</span></p>
+<p><strong>узагальнює </strong><span>поняття, закономірності, правила й винятки з них;</span></p>
+<p><strong>застосовує</strong><span> здобуті знання, уміння, навички і досвід у нових навчальних та життєвих ситуаціях.</span></p>
+</td>
+<td>
+<p><strong>К-сть годин 3</strong></p>
+<span>Повторення й узагальнення </span>
+<span>в кінці року.</span>
+<p><span>Лексикологія.</span></p>
+<p><span>Будова слова й орфографія.</span></p>
+<p><span>Фонетика й графіка. Орфоепія й орфографія.</span></p>
+<span>Синтаксис і пунктуація.</span>
+</td>
+<td>
+<strong>Види роботи. </strong>
+<span>Написання речень і текстів з коментуванням і узагальненням упродовж року орфограм і пунктограм.</span>
+<span>Читання текстів із дотриманням правил вимови слів та інтонування речень.</span>
+</td>
+<td>
+<p><span>Громадянська відповідальність</span></p>
+<p><span>Екологічна безпека і сталий розвиток</span></p>
+<p><span>Здоров&rsquo;я і безпека</span></p>
+<p><span>Підприємливість і фінансова грамотність</span></p>
+</td>
+<td>
+<p><strong>СДМ</strong></p>
+<p><strong>ІКК</strong></p>
+<p><strong>СГК</strong></p>
+<p><strong>УВВЖ</strong></p>
+<p><strong>КПНТ</strong></p>
+<p><strong>ЗКК</strong></p>
+<p><strong>ПК</strong></p>
+<strong>ЗЗК</strong>
+</td>
+</tr>
 </tbody>
 </table>
 

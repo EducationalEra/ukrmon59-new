@@ -348,6 +348,7 @@ transform:scale(1.5);
 transition: all 0.7s ease;
 }
 
+/*
 .p1 {
  font-weight: bold;
  color: #0F5180;
@@ -367,6 +368,7 @@ transition: all 0.7s ease;
  font-weight: bold;
  color: #FAAF00;
 }
+*/
 
 /*Button*/
 .but {
@@ -439,11 +441,6 @@ transition: all 0.7s ease;
 
 .space {
     margin-bottom: 40px;
-}
-
-p1 {
- font-weight: bold;
- color: #0F5180;
 }
 
 .pad{

@@ -1,5 +1,4 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
-
 # Види робіт
 
 <p><b>Зміст розділу:</b></p>
